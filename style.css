@@ -12,6 +12,7 @@ margin: 0;
 .row{
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 5px;
 }
 
 [class^=col]{
